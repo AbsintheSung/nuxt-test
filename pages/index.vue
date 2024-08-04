@@ -4,10 +4,7 @@ import Accordion from "primevue/accordion";
 import AccordionPanel from "primevue/accordionpanel";
 import AccordionHeader from "primevue/accordionheader";
 import AccordionContent from "primevue/accordioncontent";
-import DatePicker from "primevue/datepicker";
-import FloatLabel from "primevue/floatlabel";
 import Dialog from "primevue/dialog";
-const date = ref("");
 const visible = ref(false);
 </script>
 
